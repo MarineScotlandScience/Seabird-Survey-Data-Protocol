@@ -4,15 +4,15 @@ This repository contains an R script (MS.seabird.survey.data.check v1.2.r) which
 
 The script and associated files and folders are all contained within this repository which should have the following structure (folders in italics):
 
-MS Seabird Data Check 
+*MS Seabird Data Check*
 
 └ MS.seabird.survey.data.check v1.2.r 
 
-data template 
+*data template*
 
 └ Standardised seabird survey data structure protocol 13_12_2016.xlsx 
 
-data requirement info 
+*data requirement info*
 
 └ ESAS behaviour codes.xlsx 
 
@@ -28,7 +28,7 @@ data requirement info
 
 └ full.species.list.xlsx 
 
-example data 
+*example data*
 
 └ Digital Aerial Still Example 27_01_2017.xlsx 
 
