@@ -1,6 +1,6 @@
 # Seabird-Survey-Data-Protocol
 
-This repository contains an R script (MS.seabird.survey.data.check v1.2.r) which was developed to undertake an automated review of a proposed standardised seabird survey data format. This data format and script were produced for Marine Scotland and followed discussions with JNCC, SNH, The Crown Estate and surveying companies. The script performs a series of checks of survey data and identifies departures from the expected formats or data content. It is accompanied by a user manual (LINK HERE).
+This repository contains an R script (MS.seabird.survey.data.check v1.2.r) which was developed to undertake an automated review of a proposed standardised seabird survey data format. This data format and script were produced for Marine Scotland and followed discussions with JNCC, SNH, The Crown Estate and surveying companies. The script performs a series of checks of survey data and identifies departures from the expected formats or data content. It is accompanied by a user manual (https://www.gov.scot/publications/seabird-survey-data-automated-data-review/).
 
 The script and associated files and folders are all contained within this repository which should have the following structure (folders in italics):
 
